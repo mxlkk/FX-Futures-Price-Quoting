@@ -7,7 +7,7 @@ SGX is launching a new currency pairs for their FX Futures suite
 The Contract Specifications are to follow the existing USD/SGD (mini) Futures Contract.		
 You are working for a Market Maker, which is to quote Futures prices, based off the Spot Prices in the OTC Market.		
 Quoting Criteria: 5 ticks wide, quoting Neutral.
-For this exercise, treat for week-ends but ignore Banking Holidays (in the real-world, Banking Holidays are not good value dates)		
+For this exercise, treat for week-ends but ignore Banking Holidays.
 	
 ## Test cases
 Test cases can be added in the input file.	
